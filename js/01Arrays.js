@@ -1,4 +1,5 @@
 const meses = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"];
+
 document.write("<ul>")
 document.write("<li>"+meses[0]+"</li>" + "<br>");
 document.write("<li>"+meses[1]+"</li>" + "<br>");
